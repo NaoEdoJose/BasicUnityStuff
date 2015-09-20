@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BoxStuff\Highlight.cs" />
      <Compile Include="Assets\Door Stuff\ButtonBehaviour.cs" />
      <Compile Include="Assets\Door Stuff\DoorBehaviour.cs" />
      <Compile Include="Assets\Door Stuff\SwitchManager.cs" />

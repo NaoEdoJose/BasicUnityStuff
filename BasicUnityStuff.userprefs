@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Door Stuff\SwitchManager.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BoxStuff\Highlight.cs">
     <Files>
-      <File FileName="Assets\Door Stuff\SwitchManager.cs" Line="29" Column="9" />
-      <File FileName="Assets\Door Stuff\DoorBehaviour.cs" Line="6" Column="1" />
+      <File FileName="Assets\BoxStuff\Highlight.cs" Line="35" Column="2" />
+      <File FileName="Assets\Text\TextManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Door Stuff\SwitchManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Door Stuff\DoorBehaviour.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
