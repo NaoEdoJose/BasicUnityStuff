@@ -5,18 +5,19 @@ using System;
 public class TextManager : MonoBehaviour {
 	
 	public string phrase;
+
+	private int selectedphrase = 0;
 	
 	char[] array ;
 	
 	char letter;
 	
 	private TextMesh txt;
-	
 	// Use this for initialization
 	void Start () {
 		txt = GetComponentInChildren<TextMesh> ();
 		array = phrase.ToCharArray ();
-		StartCoroutine(writer(0.1f));
+		StartCoroutine (writer (0.1f));
 	}
 	
 	IEnumerator writer(float f){
@@ -34,8 +35,6 @@ public class TextManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-		
-		
+
 	}
 }
