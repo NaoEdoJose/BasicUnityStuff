@@ -47,8 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BoxStuff\Highlight.cs" />
+     <Compile Include="Assets\ColorShuffle\ColorShuffle.cs" />
      <Compile Include="Assets\DefaultTouch - ZappKnight(Victor))\DefaultTouch.cs" />
      <Compile Include="Assets\DefaultTouch - ZappKnight(Victor))\TouchExample.cs" />
+     <Compile Include="Assets\DinamicCamera\DinamicCamera.cs" />
      <Compile Include="Assets\Door Stuff\ButtonBehaviour.cs" />
      <Compile Include="Assets\Door Stuff\DoorBehaviour.cs" />
      <Compile Include="Assets\Door Stuff\SwitchManager.cs" />
