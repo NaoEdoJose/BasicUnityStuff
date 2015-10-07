@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ColorShuffle\ColorShuffle.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\jdlqv1beu\Assets\PlayerBehaviour.cs">
     <Files>
       <File FileName="Assets\ColorShuffle\ColorShuffle.cs" Line="12" Column="4" />
+      <File FileName="..\jdlqv1beu\Assets\PlayerBehaviour.cs" Line="12" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
